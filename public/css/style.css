@@ -82,6 +82,7 @@ img:hover {
     margin: 10px;
 }
 
+/* Adapted from http://www.w3schools.com/css/css_navbar.asp */
 #navbar-list {
     list-style-type: none;
     background-color: var(--theme-darkblue);

@@ -26,13 +26,13 @@ Do the following to complete this assignment:
     * [x] Proper structure: 
         * [x] Using [div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div)
         * [x] Using [span](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/span)
-{0}. [ ] Edit `style.css` to meet these requirement:
+{0}. [x] Edit `style.css` to meet these requirement:
     * [x] Use CSS Selectors:
         * [x] ID selectors
         * [x] Classes selectors 
         * [x] Multiple classes on one tag
-    * [ ] Basic CSS 
-        * [ ] [Positioning](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+    * [x] Basic CSS 
+        * [x] [Positioning](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
         * [x] [Font styling](https://developer.mozilla.org/en-US/docs/Web/CSS/font-style)
     * [x] CSS Pseudo Classes
 {0}. [x] Use a decent [color scheme](https://color.adobe.com/create/color-wheel/) to style your webpage
