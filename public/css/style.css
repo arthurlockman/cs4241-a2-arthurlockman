@@ -1,1 +1,61 @@
-/*Style your own assignment! This is fun! */
+h1 {
+    font-family: 'Oswald', sans-serif;
+    color: black;
+    font-variant: small-caps;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    color: dimgray;
+    font-variant: small-caps;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+th, td {
+    padding: 6px;
+    border: 1px solid slategray;
+    text-align: center;
+}
+
+.emphasized-list {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.table-header {
+    font-family: 'Oswald', sans-serif;
+    font-variant: small-caps;
+    font-size: 14pt;
+    color: dimgray;
+}
+
+.table-content {
+    font-size: 12pt;
+    color: slategray;
+}
+
+.very-important {
+    color: darkred;
+}
+
+.pull-quote {
+    color: darkred;
+    font-family: 'Oswald', sans-serif;
+    font-variant: small-caps;
+    font-size: 16pt;
+}
+
+img:hover {
+    box-shadow: 5px 5px 5px darkgray;
+}
+
+#para2 {
+    text-align: center;
+}
+
+#main-image {
+    width: 30%;
+}
