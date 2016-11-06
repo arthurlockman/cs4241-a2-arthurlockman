@@ -35,7 +35,7 @@ Do the following to complete this assignment:
         * [ ] [Positioning](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
         * [x] [Font styling](https://developer.mozilla.org/en-US/docs/Web/CSS/font-style)
     * [x] CSS Pseudo Classes
-{0}. [ ] Use a decent [color scheme](https://color.adobe.com/create/color-wheel/) to style your webpage
+{0}. [x] Use a decent [color scheme](https://color.adobe.com/create/color-wheel/) to style your webpage
 {0}. [ ] Bonus if you make the page visually appealing, and/or use different fonts 
 {0}. [ ] Test your project on your local machine to make sure that when someone goes to your main page, it displays correctly.
 {0}. [ ] Deploy your project to Heroku.

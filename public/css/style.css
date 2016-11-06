@@ -1,12 +1,21 @@
+:root {
+    /*Color theme from https://color.adobe.com/%E6%88%91%E7%9A%84-Color-%E4%B8%BB%E9%A1%8C-color-theme-8832728/*/
+    --theme-darkblue: #020331;
+    --theme-purple: #40087F;
+    --theme-pink: #FFB0B5;
+    --theme-blue: #88E8D9;
+    --theme-green: #52ED62;
+}
+
 h1 {
     font-family: 'Oswald', sans-serif;
-    color: black;
+    color: var(--theme-darkblue);
     font-variant: small-caps;
 }
 
 h2 {
     font-family: 'Oswald', sans-serif;
-    color: dimgray;
+    color: var(--theme-purple);
     font-variant: small-caps;
 }
 
@@ -29,7 +38,7 @@ th, td {
     font-family: 'Oswald', sans-serif;
     font-variant: small-caps;
     font-size: 14pt;
-    color: dimgray;
+    color: var(--theme-purple);
 }
 
 .table-content {
@@ -38,14 +47,18 @@ th, td {
 }
 
 .very-important {
-    color: darkred;
+    color: var(--theme-blue);
 }
 
 .pull-quote {
-    color: darkred;
+    color: var(--theme-green);
     font-family: 'Oswald', sans-serif;
     font-variant: small-caps;
     font-size: 16pt;
+}
+
+#main-image {
+    float: right;
 }
 
 img:hover {
